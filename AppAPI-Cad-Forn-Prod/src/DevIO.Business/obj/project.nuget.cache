@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBK/1aHy179vjFJDB3P++PW9hjqkCmGWKW/FW8yFbejrlVNqRyVOZfbHEfTE8WcpIOVoQjlmw3I3MW4UTvopgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alefd\\OneDrive\\Documentos\\3. Desemvolvedor.io\\AppAPI-Cad-Prod\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alefd\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
